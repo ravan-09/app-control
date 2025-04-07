@@ -1,9 +1,4 @@
 {
-  "expired": false,
-  "dialog": {
-    "show": true,
-    "title": "Important Update",
-    "message": "New version available. Please update from our website.",
-    "button": "OK"
-  }
+  "status": "active",
+  "message": "Welcome to the updated app!"
 }
