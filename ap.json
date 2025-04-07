@@ -1,0 +1,9 @@
+{
+  "expired": false,
+  "dialog": {
+    "show": true,
+    "title": "Important Update",
+    "message": "New version available. Please update from our website.",
+    "button": "OK"
+  }
+}
